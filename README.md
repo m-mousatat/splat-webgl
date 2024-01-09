@@ -1,6 +1,6 @@
 # Gaussian Splat Viewer
 
-The viewer can be accessed [from here](https://NUHA-AI.github.io/splat-webgl/).
+The viewer can be accessed [from here](https://m-mousatat.github.io/splat-webgl/).
 
 you can drag and drop any .ply file you want to show the result of the Gaussian splatting.
 
