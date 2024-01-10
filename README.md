@@ -7,4 +7,4 @@ you can drag and drop any .ply file you want to show the result of the Gaussian 
 
 # Acknowledgements
 
-Thanks to Animatter15 for his wonderful and well-documented of WebGL viewer.
+Thanks to Animatter15 for his wonderful and well-documented of WebGL repo which helped me establish this viewer on github.
