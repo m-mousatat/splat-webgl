@@ -746,7 +746,7 @@ async function downloadFile(){
     const url = new URL(
         // "nike.splat",
         // location.href,
-        params.get("url") || "statue_full.splat",
+        params.get("url") || "devel.splat",
         "https://raw.githubusercontent.com/m-mousatat/splat-webgl/main/models/",
     );
     const req = await fetch(url, {
