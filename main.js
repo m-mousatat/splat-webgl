@@ -747,7 +747,7 @@ async function downloadFile(){
         // "nike.splat",
         // location.href,
         params.get("url") || "finalchair.splat",
-        "https://github.com/m-mousatat/splat-webgl/tree/main/models/",
+        "https://raw.githubusercontent.com/m-mousatat/splat-webgl/main/models/",
     );
     const req = await fetch(url, {
         mode: "cors", // no-cors, *cors, same-origin
